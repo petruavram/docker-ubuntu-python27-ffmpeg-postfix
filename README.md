@@ -6,4 +6,4 @@ instalation of Python 2.7, ffmpeg and postfix.
 
 ### Build
 
-docker build -t <imageName> .
+`docker build -t <imageName> .`
