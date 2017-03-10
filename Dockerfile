@@ -15,6 +15,8 @@ RUN apt-get update -qq \
     ffmpeg \
     python-pip \
     python-dev \
+    sqlite3 \
+    libsqlite3-dev \
     build-essential \
     && apt-get clean
 
