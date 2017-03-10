@@ -17,6 +17,7 @@ RUN apt-get update -qq \
     python-dev \
     sqlite3 \
     libsqlite3-dev \
+    git \
     build-essential \
     && apt-get clean
 
