@@ -15,6 +15,8 @@ RUN apt-get update -qq \
     ffmpeg \
     python-pip \
     python-dev \
+    postgresql \
+    postgresql-contrib \
     sqlite3 \
     libsqlite3-dev \
     git \
